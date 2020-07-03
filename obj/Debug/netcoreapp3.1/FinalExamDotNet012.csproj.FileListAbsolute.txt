@@ -1,0 +1,13 @@
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.exe
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.deps.json
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.runtimeconfig.json
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.runtimeconfig.dev.json
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.dll
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\bin\Debug\netcoreapp3.1\FinalExamDotNet012.pdb
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.csprojAssemblyReference.cache
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.AssemblyInfoInputs.cache
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.AssemblyInfo.cs
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.csproj.CoreCompileInputs.cache
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.dll
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.pdb
+C:\Users\amala\Documents\GitHub\FinalExamDotNet012\FinalExamDotNet012\obj\Debug\netcoreapp3.1\FinalExamDotNet012.genruntimeconfig.cache

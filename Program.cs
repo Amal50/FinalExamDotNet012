@@ -6,7 +6,36 @@ namespace FinalExamDotNet012
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Adult[] array = new Adult[2];
+            array[0] = new Adult("cool","lastCool");
+            array[1] = new Child("amal", "aljohari");
+
+            for(var i = 0; i< array.Length; i++)
+            {
+                Console.WriteLine($"First name {array[i].FirstName} , Last Name {array[i].LastName}");
+            }
         }
+    }
+
+    public class Adult
+    {
+        
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public Adult(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
+
+    }
+    public class Child : Adult
+    {
+
+        public Child(string firstName, string lastName) :base(firstName, lastName)
+        {
+
+        }
+
     }
 }
