@@ -7,12 +7,12 @@ namespace FinalExamDotNet012
         static void Main(string[] args)
         {
             Adult[] array = new Adult[2];
-            array[0] = new Adult("cool","lastCool");
-            array[1] = new Child("amal", "aljohari");
+            array[0] = new Adult("AdultFName", "AdultLastName");
+            array[1] = new Child("ChildAmal", "ChildAljohari");
 
             for(var i = 0; i< array.Length; i++)
             {
-                Console.WriteLine($"First name {array[i].FirstName} , Last Name {array[i].LastName}");
+                Console.WriteLine($"First name: {array[i].FirstName} , Last Name: {array[i].LastName}");
             }
         }
     }
